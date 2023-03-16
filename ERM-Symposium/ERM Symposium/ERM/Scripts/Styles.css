@@ -1,0 +1,22 @@
+﻿body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+
+h2
+{
+    font-size: 19px;
+}
+
+.Copyright
+{
+    font-size: 11px;
+    text-align: center;
+}
+
+#MyHeader
+{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+﻿body
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+h1
+{
+    font-size: 24px;
+}
+
+h2
+{
+    font-size: 20px;
+}
+
+.Copyright
+{
+    font-size: 13px;
+}
+
+.red
+{
+    color: maroon;
+}
+
+select option
+{
+    background: #ffffff !important;
+}
