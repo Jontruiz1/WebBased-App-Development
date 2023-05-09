@@ -22,7 +22,7 @@ namespace FinalExam.FinalExam
                 ADODB.Connection objConnection = new ADODB.Connection();
                 ADODB.Recordset objRS = new ADODB.Recordset();
 
-                string strConnection = "Data Source = csis-sql.elmhurst.edu;Initial Catalog=CS440_Spring2022_Final_Exam;User ID=cs440;Password=Elmhurst1871;Provider=msoledbsql;";
+                string strConnection = "DATABASE CONNECTION STRING HERE";
                 string sql = "SELECT * FROM [Jonathan_Ruiz];";
 
                 objConnection.Open(strConnection);
